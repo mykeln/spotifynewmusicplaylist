@@ -2,6 +2,7 @@
 Create a new Spotify playlist that adds new music added over the last year by artists you follow.
 
 ## Screenshot
+<img width="226" alt="Screenshot 2023-05-15 at 3 50 36 PM" src="https://github.com/mykeln/spotifynewmusicplaylist/assets/97042/4b4045dd-230f-4b0d-8c69-dc248df14a16">
 
 
 ## Prerequesites
